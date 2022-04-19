@@ -2,7 +2,6 @@ Alphabet:
 a
 b
 c
-d
 
 Number:
 1
