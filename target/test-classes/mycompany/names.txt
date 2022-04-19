@@ -2,7 +2,6 @@ Alphabet:
 a
 b
 c
-d
 
 Number:
 1
@@ -12,3 +11,4 @@ Number:
 5
 6
 7
+8
