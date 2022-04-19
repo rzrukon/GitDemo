@@ -3,8 +3,6 @@ a
 b
 c
 d
-e
-f
 
 Number:
 1
@@ -12,3 +10,5 @@ Number:
 3
 4
 5
+6
+7
