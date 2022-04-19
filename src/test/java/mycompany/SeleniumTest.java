@@ -9,6 +9,7 @@ public class SeleniumTest {
 		
 		System.out.println("BrowserAutomation");
 		System.out.println("WebAutomation");
+		System.out.println("WebAutomation2");
 		
 	}
 	
@@ -17,6 +18,7 @@ public class SeleniumTest {
 		
 		System.out.println("elementsUi");
 		System.out.println("elementsUi2");
+		System.out.println("elementsUi3");
 		
 	}
 
